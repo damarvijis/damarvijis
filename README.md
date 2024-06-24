@@ -6,7 +6,7 @@
 
 ## 🌟 Frontend Developer | Enthusiastic Learner 🌟
 
-Hello! I'm a highly motivated frontend developer with a strong passion for the technology industry, especially mobile and web development. I love working with logical processes and creating functional, innovative solutions through my code.
+Hello! I'm a highly motivated Frontend Developer with a strong passion for the technology industry, especially mobile and web development. I love working with logical processes and creating functional, innovative solutions through my code.
 
 I thrive on learning new technologies and continuously improving my skills. I'm eager to contribute to the success of the team and grow professionally within the company.
 
